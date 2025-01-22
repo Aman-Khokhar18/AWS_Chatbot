@@ -17,7 +17,7 @@ def chat_with_chroma(user_message, chat_history):
 
 
 with gr.Blocks() as demo:
-    gr.Markdown("# AWS Documentation Chatbot (Chroma + LangChain)")
+    gr.Markdown("# AWS Documentation Chatbot")
     chatbot = gr.Chatbot()
     state = gr.State([])
 
