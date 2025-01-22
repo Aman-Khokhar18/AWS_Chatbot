@@ -35,5 +35,5 @@ This repository contains a simple Gradio-based chatbot application that uses a C
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/your-repo-name
+   git clone https://github.com/Aman-Khokhar18/AWS_Chatbot
    cd AWS ChatBot
