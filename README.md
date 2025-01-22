@@ -2,6 +2,9 @@
 
 This repository contains a simple Gradio-based chatbot application that uses a Chroma database for text retrieval. The workflow includes creating a Chroma database from markdown files, then using the database to provide relevant responses in the chatbot interface.
 
+![Chatbot Animation](https://raw.githubusercontent.com/Aman-Khokhar18/AWS_Chatbot/main/Images/Animation.gif)
+
+
 ## Features
 
 1. **Chatbot with Gradio**  
